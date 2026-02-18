@@ -42,4 +42,12 @@ If you are preparing for coding interviews as well, feel free to explore the sol
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
