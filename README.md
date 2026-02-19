@@ -41,6 +41,7 @@ If you are preparing for coding interviews as well, feel free to explore the sol
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
@@ -50,4 +51,9 @@ If you are preparing for coding interviews as well, feel free to explore the sol
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
