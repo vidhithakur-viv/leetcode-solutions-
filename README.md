@@ -57,8 +57,21 @@ If you are preparing for coding interviews as well, feel free to explore the sol
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/0013-roman-to-integer) |
+| [1025-divisor-game](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/1025-divisor-game) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
