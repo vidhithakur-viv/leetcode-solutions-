@@ -57,6 +57,7 @@ If you are preparing for coding interviews as well, feel free to explore the sol
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/0013-roman-to-integer) |
 | [1025-divisor-game](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/1025-divisor-game) |
 ## Stack
@@ -75,4 +76,12 @@ If you are preparing for coding interviews as well, feel free to explore the sol
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/1025-divisor-game) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
