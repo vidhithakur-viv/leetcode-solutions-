@@ -37,6 +37,7 @@ If you are preparing for coding interviews as well, feel free to explore the sol
 ## String
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/0301-remove-invalid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
@@ -50,6 +51,14 @@ If you are preparing for coding interviews as well, feel free to explore the sol
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/vidhithakur-viv/leetcode-solutions-/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->his repository contains my accepted solutions to LeetCode problems.
 
 It is automatically synced with my LeetCode submissions to reflect consistent problem-solving practice and continuous learning.
